@@ -1,7 +1,8 @@
-# bootstrap_portfolio
+# Updated Portfolio
 ​
 # Github 
 ​
-- https://github.com/Anna250481/bootstrap_portfolio
+- https://anna250481.github.io/Updated-Portfolio/
 
-- https://anna250481.github.io/bootstrap_portfolio/.
+- https://github.com/Anna250481/Updated-Portfolio
+
